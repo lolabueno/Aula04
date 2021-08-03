@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoopWhile {
+public class Ex07 {
 
 	public static void main(String[] args) {
 		/*Imagine que uma ONG precise saber a média de idades dos alunos de uma escola.
